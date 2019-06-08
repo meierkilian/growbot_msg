@@ -63,6 +63,8 @@ add_message_files(
   Wheel_pos.msg
   Wheel_target.msg
   Log_info.msg
+  Dispenser_cmd.msg
+  Dispenser_moving.msg
 )
 
 ## Generate services in the 'srv' folder
